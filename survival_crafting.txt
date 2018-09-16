@@ -1,4 +1,0 @@
-Zdravím! :D Je možný, že to sem nepatří, ale mám problém s grafickou kartou. Všechny ovladače ke grafice mám aktuální.
-Jde o to, že když hraju hru ve FullScreenu  tak se to "seká" Viz. video :  https://www.youtube.com/watch?v=JK2LHnYN69A .
-Zkoušel jsem udělat záznam ze hry, viz. další video : https://www.youtube.com/watch?v=nWJsv-4gpNQ .
-Nemám tušení, jak to opravit.. Dříve se to takto nesekalo. Děkuji za přečtení a případnou pomoc. :D 
